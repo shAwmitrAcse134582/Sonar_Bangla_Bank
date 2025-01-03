@@ -35,4 +35,4 @@ typing_extensions
 tzdata
 urllib3
 websocket-client
-wsproto
+wsprotodj-database-url==2.3.0
